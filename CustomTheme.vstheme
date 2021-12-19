@@ -3715,10 +3715,10 @@
         <Background Type="CT_RAW" Source="FF3E4249" />
       </Color>
       <Color Name="FileTabLastActiveText">
-        <Background Type="CT_RAW" Source="FFEFEFEF" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabLastActiveGlyph">
-        <Background Type="CT_RAW" Source="FFCECECE" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle1">
         <Background Type="CT_RAW" Source="FF9470BD" />
@@ -4286,7 +4286,7 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="FileTabText">
-        <Background Type="CT_RAW" Source="FFBDBDBD" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FormSmartTagActionTagBorder">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -4770,7 +4770,7 @@
         <Background Type="CT_RAW" Source="FF2E323A" />
       </Color>
       <Color Name="FileTabProvisionalInactiveForeground">
-        <Background Type="CT_RAW" Source="FFBDBDBD" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActive">
         <Background Type="CT_RAW" Source="FF68217A" />
@@ -4788,7 +4788,7 @@
         <Background Type="CT_RAW" Source="FF353941" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactiveForeground">
-        <Background Type="CT_RAW" Source="FFBDBDBD" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabButtonProvisionalInactiveGlyph">
         <Background Type="CT_RAW" Source="FF353941" />
@@ -4863,7 +4863,7 @@
         <Background Type="CT_RAW" Source="FFC3ABDF" />
       </Color>
       <Color Name="FileTabButtonHoverInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFEFEFEF" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabButtonDownInactive">
         <Background Type="CT_RAW" Source="FF6C558A" />
